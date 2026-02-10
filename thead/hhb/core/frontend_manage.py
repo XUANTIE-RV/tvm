@@ -111,7 +111,7 @@ class HHBOnnxFrontend(OnnxFrontend):
 
         onnx_model = onnx.load(onnx_path)
         if output_name:
-            e = onnx.onnx.utils.Extractor(onnx_model)
+            e = onnx.utils.Extractor(onnx_model)
             onnx_model = e.extract_model(input_name, output_name)
         input_dict = dict()
         for idx, name in enumerate(input_name):
