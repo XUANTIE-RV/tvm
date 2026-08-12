@@ -27,3 +27,7 @@ Website
 - [文档](https://www.yuque.com/za4k4z/oxlbxl)
 - [Products page](https://www.xrvm.com/soft-tools/tools/HHB?spm=xrvm.27140568.0.0.78f19b29lECjfi)
 - [Document](https://www.yuque.com/za4k4z/kvkcoh)
+
+## Related Resources
+
+* XuanTie AI model deployment tools and resources: [XuanTie AI Model Deployment Tools](https://www.xrvm.cn/soft-tools/tools/HHB)
